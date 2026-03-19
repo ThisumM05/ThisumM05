@@ -96,7 +96,7 @@
 
 ## 📫 Contact
 <p align="center">
-  LinkedIn: <a href="">Your LinkedIn</a> •
+  LinkedIn: <a href=http://www.linkedin.com/in/thisum-madappuli>Your LinkedIn</a> •
   Portfolio: <a href=https://thisumm05.github.io/Personal_Portfolio/>Your Site</a> •
   Email: <a href="mailto:<add-email>"><add-email></a>
 </p>
