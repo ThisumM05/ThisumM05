@@ -96,7 +96,7 @@
 
 ## 📫 Contact
 <p align="center">
-  LinkedIn: <a href="<add-link>">Your LinkedIn</a> •
-  Portfolio: <a href="<add-link>">Your Site</a> •
+  LinkedIn: <a href="">Your LinkedIn</a> •
+  Portfolio: <a href=https://thisumm05.github.io/Personal_Portfolio/>Your Site</a> •
   Email: <a href="mailto:<add-email>"><add-email></a>
 </p>
