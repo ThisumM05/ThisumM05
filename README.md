@@ -90,58 +90,36 @@
 
 <!-- Personal Portfolio -->
 <td align="center" valign="top">
-<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #A020F0;padding:18px;width:260px;">
-  <div style="background:linear-gradient(135deg,#A020F0,#6A0DAD);border-radius:10px;padding:10px;margin-bottom:14px;">
-    <img src="https://skillicons.dev/icons?i=react" width="42" alt="React">
-  </div>
-  <div style="color:#fff;font-size:16px;font-weight:bold;margin-bottom:6px;">Personal Portfolio</div>
-  <div style="color:#aaa;font-size:12px;margin-bottom:12px;">React &nbsp;�&nbsp; Tailwind &nbsp;�&nbsp; Framer Motion</div>
-  <hr style="border:none;border-top:1px solid #333;margin:10px 0;">
-  <div style="color:#ccc;font-size:12px;margin-bottom:14px;">Modern animated portfolio UI ?</div>
+<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #A020F0;padding:12px;width:260px;">
+  <img src="Images/anim-portfolio.svg" width="260" height="160" style="border-radius:10px;display:block;">
+  <br><br>
   <a href="https://github.com/ThisumM05/Personal_Portfolio">
-    <img src="https://img.shields.io/badge/View%20Repo-%23A020F0?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
 
 <!-- MOS Burger -->
 <td align="center" valign="top">
-<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #FF6B35;padding:18px;width:260px;">
-  <div style="position:relative;width:100%;height:140px;border-radius:10px;overflow:hidden;margin-bottom:14px;">
-    <img src="Images/mos-burger-restaurant-system.jpg" width="100%" height="140" style="object-fit:cover;filter:blur(2px);transform:scale(1.06);display:block;">
-    <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.45);display:flex;align-items:center;justify-content:center;">
-      <span style="font-size:36px;"></span>
-    </div>
-  </div>
-  <div style="color:#fff;font-size:16px;font-weight:bold;margin-bottom:6px;">MOS Burger</div>
-  <div style="color:#aaa;font-size:12px;margin-bottom:12px;">JavaScript</div>
-  <hr style="border:none;border-top:1px solid #333;margin:10px 0;">
-  <div style="color:#ccc;font-size:12px;margin-bottom:14px;">Burger ordering system</div>
+<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #FF6B35;padding:12px;width:260px;">
+  <img src="Images/anim-burger.svg" width="260" height="160" style="border-radius:10px;display:block;">
+  <br><br>
   <a href="https://github.com/ThisumM05/MOS_Bruger">
-    <img src="https://img.shields.io/badge/View%20Repo-%23FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
 
 <!-- StarEvents -->
 <td align="center" valign="top">
-<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #FFD700;padding:18px;width:260px;">
-  <div style="position:relative;width:100%;height:140px;border-radius:10px;overflow:hidden;margin-bottom:14px;">
-    <img src="Images/online-event-ticketing-system.jpg" width="100%" height="140" style="object-fit:cover;filter:blur(2px);transform:scale(1.06);display:block;">
-    <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.45);display:flex;align-items:center;justify-content:center;">
-      <span style="font-size:36px;"></span>
-    </div>
-  </div>
-  <div style="color:#fff;font-size:16px;font-weight:bold;margin-bottom:6px;">StarEvents</div>
-  <div style="color:#aaa;font-size:12px;margin-bottom:12px;">HTML &nbsp;�&nbsp; CSS &nbsp;�&nbsp; JS</div>
-  <hr style="border:none;border-top:1px solid #333;margin:10px 0;">
-  <div style="color:#ccc;font-size:12px;margin-bottom:14px;">Event booking &amp; ticketing platform</div>
+<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #FFD700;padding:12px;width:260px;">
+  <img src="Images/anim-starevents.svg" width="260" height="160" style="border-radius:10px;display:block;">
+  <br><br>
   <a href="https://github.com/ThisumM05/StarEvents_Pvt_Ltd_Management_System">
-    <img src="https://img.shields.io/badge/View%20Repo-%23FFD700?style=for-the-badge&logo=github&logoColor=black" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=black" alt="View Repo">
   </a>
 </div>
 </td>
-
 </tr>
 
 <!-- Row 2 -->
@@ -149,80 +127,52 @@
 
 <!-- FoodHub -->
 <td align="center" valign="top">
-<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #36BCF7;padding:18px;width:260px;">
-  <div style="position:relative;width:100%;height:140px;border-radius:10px;overflow:hidden;margin-bottom:14px;">
-    <img src="Images/foodhub-management-system.jpg" width="100%" height="140" style="object-fit:cover;filter:blur(2px);transform:scale(1.06);display:block;">
-    <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.45);display:flex;align-items:center;justify-content:center;">
-      <span style="font-size:36px;"></span>
-    </div>
-  </div>
-  <div style="color:#fff;font-size:16px;font-weight:bold;margin-bottom:6px;">FoodHub</div>
-  <div style="color:#aaa;font-size:12px;margin-bottom:12px;">C# &nbsp;�&nbsp; SQL Server</div>
-  <hr style="border:none;border-top:1px solid #333;margin:10px 0;">
-  <div style="color:#ccc;font-size:12px;margin-bottom:14px;">Food delivery management system</div>
+<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #36BCF7;padding:12px;width:260px;">
+  <img src="Images/anim-foodhub.svg" width="260" height="160" style="border-radius:10px;display:block;">
+  <br><br>
   <a href="https://github.com/ThisumM05/FoodHub_Management_System">
-    <img src="https://img.shields.io/badge/View%20Repo-%2336BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
 
 <!-- MediCare -->
 <td align="center" valign="top">
-<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #00C896;padding:18px;width:260px;">
-  <div style="position:relative;width:100%;height:140px;border-radius:10px;overflow:hidden;margin-bottom:14px;">
-    <img src="Images/medicare-management-system.png" width="100%" height="140" style="object-fit:cover;filter:blur(2px);transform:scale(1.06);display:block;">
-    <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.45);display:flex;align-items:center;justify-content:center;">
-      <span style="font-size:36px;"></span>
-    </div>
-  </div>
-  <div style="color:#fff;font-size:16px;font-weight:bold;margin-bottom:6px;">MediCare</div>
-  <div style="color:#aaa;font-size:12px;margin-bottom:12px;">Healthcare Management System</div>
-  <hr style="border:none;border-top:1px solid #333;margin:10px 0;">
-  <div style="color:#ccc;font-size:12px;margin-bottom:14px;">Patient record management</div>
+<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #00C896;padding:12px;width:260px;">
+  <img src="Images/anim-medicare.svg" width="260" height="160" style="border-radius:10px;display:block;">
+  <br><br>
   <a href="https://github.com/ThisumM05/MediCare_Pvt_Ltd">
-    <img src="https://img.shields.io/badge/View%20Repo-%2300C896?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
 
 <!-- Fashion Shop -->
 <td align="center" valign="top">
-<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #FF69B4;padding:18px;width:260px;">
-  <div style="background:linear-gradient(135deg,#FF69B4,#C0306A);border-radius:10px;padding:10px;margin-bottom:14px;">
-    <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java">
-  </div>
-  <div style="color:#fff;font-size:16px;font-weight:bold;margin-bottom:6px;">Fashion Shop</div>
-  <div style="color:#aaa;font-size:12px;margin-bottom:12px;">Java</div>
-  <hr style="border:none;border-top:1px solid #333;margin:10px 0;">
-  <div style="color:#ccc;font-size:12px;margin-bottom:14px;">Clothing inventory management </div>
+<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #FF69B4;padding:12px;width:260px;">
+  <img src="Images/anim-fashion.svg" width="260" height="160" style="border-radius:10px;display:block;">
+  <br><br>
   <a href="https://github.com/ThisumM05/Fashion_Shop_Managment_System">
-    <img src="https://img.shields.io/badge/View%20Repo-%23FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
-
 </tr>
 
-<!-- Row 3 � Eshift centred -->
+
+<!-- Row 3 - Eshift centred -->
 <tr>
 <td colspan="3" align="center">
-<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #9B59B6;padding:18px;width:260px;display:inline-block;">
-  <div style="position:relative;width:100%;height:140px;border-radius:10px;overflow:hidden;margin-bottom:14px;">
-    <img src="Images/e-shift-management-system.jpg" width="100%" height="140" style="object-fit:cover;filter:blur(2px);transform:scale(1.06);display:block;">
-    <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.45);display:flex;align-items:center;justify-content:center;">
-      <span style="font-size:36px;"></span>
-    </div>
-  </div>
-  <div style="color:#fff;font-size:16px;font-weight:bold;margin-bottom:6px;">Eshift System</div>
-  <div style="color:#aaa;font-size:12px;margin-bottom:12px;">C#</div>
-  <hr style="border:none;border-top:1px solid #333;margin:10px 0;">
-  <div style="color:#ccc;font-size:12px;margin-bottom:14px;">Transport booking &amp; shift system</div>
+<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #9B59B6;padding:12px;width:260px;display:inline-block;">
+  <img src="Images/anim-eshift.svg" width="260" height="160" style="border-radius:10px;display:block;">
+  <br><br>
   <a href="https://github.com/ThisumM05/Eshift_Management_System">
     <img src="https://img.shields.io/badge/View%20Repo-%239B59B6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
 </tr>
+
 
 </table>
 </div>
@@ -242,7 +192,7 @@
 <tr>
 <td align="center">
   <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border:1px solid #A020F0;padding:16px 24px;">
-    <div style="color:#A020F0;font-weight:bold;font-size:13px;margin-bottom:10px;">? Languages</div>
+    <div style="color:#A020F0;font-weight:bold;font-size:13px;margin-bottom:10px;">Languages</div>
     <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css" alt="Languages"/>
   </div>
 </td>
@@ -292,7 +242,6 @@
 
 <br>
 
----
 
 <!-- +------------------------------------------------------+ -->
 <!--                   MORE PROJECTS                          -->
@@ -317,7 +266,7 @@
 <tr>
 <td>
   <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border:1px solid #444;padding:14px 20px;min-width:220px;">
-    <span style="font-size:22px;">?</span>&nbsp;&nbsp;<a href="https://github.com/ThisumM05/Rock_Paper_Scissors_Game"><b>Rock Paper Scissors</b></a>
+    <span style="font-size:22px;"></span>&nbsp;&nbsp;<a href="https://github.com/ThisumM05/Rock_Paper_Scissors_Game"><b>Rock Paper Scissors</b></a>
   </div>
 </td>
 <td>
@@ -329,7 +278,7 @@
 <tr>
 <td>
   <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border:1px solid #444;padding:14px 20px;min-width:220px;">
-    <span style="font-size:22px;">?</span>&nbsp;&nbsp;<a href="https://github.com/ThisumM05/Todolist"><b>Todolist App</b></a>
+    <span style="font-size:22px;"></span>&nbsp;&nbsp;<a href="https://github.com/ThisumM05/Todolist"><b>Todolist App</b></a>
   </div>
 </td>
 <td>
@@ -343,7 +292,6 @@
 
 <br>
 
----
 
 <!-- +------------------------------------------------------+ -->
 <!--                      FOOTER                              -->
