@@ -13,7 +13,7 @@
 ## 🚀 Featured Projects
 
 <!-- Portfolio Card -->
-<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:16px; margin-bottom:16px;">
+<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:16px; margin-bottom:32px;">
   <img src="https://skillicons.dev/icons?i=react" width="40" />
   <br>
   <b>Personal Portfolio</b>
@@ -26,7 +26,7 @@
 </div>
 
 <!-- MOS_Bruger Card -->
-<div align="center" style="border:2px solid #F7B236; border-radius:16px; padding:16px; margin-bottom:16px;">
+<div align="center" style="border:2px solid #F7B236; border-radius:16px; padding:16px; margin-bottom:32px;">
   <img src="https://skillicons.dev/icons?i=js" width="40" />
   <br>
   <b>MOS_Bruger</b>
@@ -39,7 +39,7 @@
 </div>
 
 <!-- StarEvents Card -->
-<div align="center" style="border:2px solid #7ED957; border-radius:16px; padding:16px; margin-bottom:16px;">
+<div align="center" style="border:2px solid #7ED957; border-radius:16px; padding:16px; margin-bottom:32px;">
   <img src="https://skillicons.dev/icons?i=html" width="40" />
   <br>
   <b>StarEvents</b>
@@ -52,7 +52,7 @@
 </div>
 
 <!-- FoodHub Card -->
-<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:16px; margin-bottom:16px;">
+<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:16px; margin-bottom:32px;">
   <img src="https://skillicons.dev/icons?i=cs" width="40" />
   <br>
   <b>FoodHub Management System</b>
@@ -65,7 +65,7 @@
 </div>
 
 <!-- MediCare Card -->
-<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:16px; margin-bottom:16px;">
+<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:16px; margin-bottom:32px;">
   <img src="https://skillicons.dev/icons?i=html" width="40" />
   <br>
   <b>MediCare Pvt Ltd</b>
@@ -78,7 +78,7 @@
 </div>
 
 <!-- Fashion Shop Card -->
-<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:16px; margin-bottom:16px;">
+<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:16px; margin-bottom:32px;">
   <img src="https://skillicons.dev/icons?i=java" width="40" />
   <br>
   <b>Fashion Shop Management System</b>
@@ -91,7 +91,7 @@
 </div>
 
 <!-- Eshift Card -->
-<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:16px; margin-bottom:16px;">
+<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:16px; margin-bottom:32px;">
   <img src="https://skillicons.dev/icons?i=cs" width="40" />
   <br>
   <b>Eshift Management System</b>
@@ -102,6 +102,8 @@
   <br>
   <a href="https://github.com/ThisumM05/Eshift_Management_System">View repo</a>
 </div>
+
+---
 
 ## 🧰 Tech Stack
 <p align="center">
