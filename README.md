@@ -12,21 +12,21 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table border="1" cellpadding="15" cellspacing="10">
 <tr>
 
-<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
-<img src="https://skillicons.dev/icons?i=react" width="40"/><br><br>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=react" width="40"><br><br>
 <b>Personal Portfolio</b><br>
-<em>React, Tailwind, Framer Motion</em><br><br>
-Modern dark-themed portfolio with clean UI<br><br>
+<i>React, Tailwind, Framer Motion</i><br><br>
+Modern dark-themed portfolio<br><br>
 <a href="https://github.com/ThisumM05/Personal_Portfolio">View Repo</a>
 </td>
 
-<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
-<img src="https://skillicons.dev/icons?i=js" width="40"/><br><br>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=js" width="40"><br><br>
 <b>MOS_Bruger</b><br>
-<em>JavaScript Web App</em><br><br>
+<i>JavaScript Web App</i><br><br>
 Burger-ordering experience 🍔<br><br>
 <a href="https://github.com/ThisumM05/MOS_Bruger">View Repo</a>
 </td>
@@ -36,21 +36,21 @@ Burger-ordering experience 🍔<br><br>
 
 <br>
 
-<table>
+<table border="1" cellpadding="15" cellspacing="10">
 <tr>
 
-<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
-<img src="https://skillicons.dev/icons?i=html" width="40"/><br><br>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=html" width="40"><br><br>
 <b>StarEvents</b><br>
-<em>Online Event Ticketing Platform</em><br><br>
-Ticket booking system 🎟️<br><br>
+<i>Online Ticketing Platform</i><br><br>
+Event booking system 🎟️<br><br>
 <a href="https://github.com/ThisumM05/StarEvents_Pvt_Ltd_Management_System">View Repo</a>
 </td>
 
-<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
-<img src="https://skillicons.dev/icons?i=cs" width="40"/><br><br>
-<b>FoodHub Management System</b><br>
-<em>C# WinForms + SQL Server</em><br><br>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=cs" width="40"><br><br>
+<b>FoodHub Management</b><br>
+<i>C# + SQL Server</i><br><br>
 Food delivery operations 🍲<br><br>
 <a href="https://github.com/ThisumM05/FoodHub_Management_System">View Repo</a>
 </td>
@@ -60,22 +60,22 @@ Food delivery operations 🍲<br><br>
 
 <br>
 
-<table>
+<table border="1" cellpadding="15" cellspacing="10">
 <tr>
 
-<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
-<img src="https://skillicons.dev/icons?i=html" width="40"/><br><br>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=html" width="40"><br><br>
 <b>MediCare Pvt Ltd</b><br>
-<em>Healthcare Management System</em><br><br>
-Patient & admin workflows 🩺<br><br>
+<i>Healthcare System</i><br><br>
+Patient management 🩺<br><br>
 <a href="https://github.com/ThisumM05/MediCare_Pvt_Ltd">View Repo</a>
 </td>
 
-<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
-<img src="https://skillicons.dev/icons?i=java" width="40"/><br><br>
-<b>Fashion Shop Management</b><br>
-<em>Java</em><br><br>
-Inventory & sales system 👕<br><br>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=java" width="40"><br><br>
+<b>Fashion Shop System</b><br>
+<i>Java</i><br><br>
+Inventory & sales 👕<br><br>
 <a href="https://github.com/ThisumM05/Fashion_Shop_Managment_System">View Repo</a>
 </td>
 
@@ -84,14 +84,14 @@ Inventory & sales system 👕<br><br>
 
 <br>
 
-<table>
+<table border="1" cellpadding="15" cellspacing="10">
 <tr>
 
-<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
-<img src="https://skillicons.dev/icons?i=cs" width="40"/><br><br>
-<b>Eshift Management System</b><br>
-<em>C#</em><br><br>
-Booking & user system 🚚<br><br>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=cs" width="40"><br><br>
+<b>Eshift Management</b><br>
+<i>C#</i><br><br>
+Booking system 🚚<br><br>
 <a href="https://github.com/ThisumM05/Eshift_Management_System">View Repo</a>
 </td>
 
