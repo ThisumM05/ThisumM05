@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=A020F0&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Thanuja+Thisum+Madappuli+%F0%9F%91%8B;Full-stack+Developer;React+%7C+C%23+%7C+Java+%7C+Tailwind+CSS" height="60" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=A020F0&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Thanuja+Thisum+Madappuli+%F0%9F%91%8B;" height="60" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node+%7C+C%23;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -10,94 +14,76 @@
 
 ---
 
-## 🚀 Featured Projects
+<!-- PROJECTS -->
+<h2>🚀 Featured Projects</h2>
 
 <table border="1" cellpadding="15" cellspacing="10">
-<tr>
 
+<tr>
 <td align="center" width="300">
 <img src="https://skillicons.dev/icons?i=react" width="40"><br><br>
 <b>Personal Portfolio</b><br>
 <i>React, Tailwind, Framer Motion</i><br><br>
-Modern dark-themed portfolio<br><br>
-<a href="https://github.com/ThisumM05/Personal_Portfolio">View Repo</a>
+Modern portfolio UI<br><br>
+<a href="https://github.com/ThisumM05/Personal_Portfolio">🔗 View Repo</a>
 </td>
 
 <td align="center" width="300">
 <img src="https://skillicons.dev/icons?i=js" width="40"><br><br>
 <b>MOS_Bruger</b><br>
-<i>JavaScript Web App</i><br><br>
-Burger-ordering experience 🍔<br><br>
-<a href="https://github.com/ThisumM05/MOS_Bruger">View Repo</a>
+<i>JavaScript</i><br><br>
+Burger ordering system 🍔<br><br>
+<a href="https://github.com/ThisumM05/MOS_Bruger">🔗 View Repo</a>
 </td>
-
 </tr>
-</table>
 
-<br>
-
-<table border="1" cellpadding="15" cellspacing="10">
 <tr>
-
-<td align="center" width="300">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=html" width="40"><br><br>
 <b>StarEvents</b><br>
-<i>Online Ticketing Platform</i><br><br>
+<i>Ticketing Platform</i><br><br>
 Event booking system 🎟️<br><br>
-<a href="https://github.com/ThisumM05/StarEvents_Pvt_Ltd_Management_System">View Repo</a>
+<a href="https://github.com/ThisumM05/StarEvents_Pvt_Ltd_Management_System">🔗 View Repo</a>
 </td>
 
-<td align="center" width="300">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=cs" width="40"><br><br>
-<b>FoodHub Management</b><br>
+<b>FoodHub</b><br>
 <i>C# + SQL Server</i><br><br>
-Food delivery operations 🍲<br><br>
-<a href="https://github.com/ThisumM05/FoodHub_Management_System">View Repo</a>
+Food delivery system 🍲<br><br>
+<a href="https://github.com/ThisumM05/FoodHub_Management_System">🔗 View Repo</a>
 </td>
-
 </tr>
-</table>
 
-<br>
-
-<table border="1" cellpadding="15" cellspacing="10">
 <tr>
-
-<td align="center" width="300">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=html" width="40"><br><br>
-<b>MediCare Pvt Ltd</b><br>
+<b>MediCare</b><br>
 <i>Healthcare System</i><br><br>
 Patient management 🩺<br><br>
-<a href="https://github.com/ThisumM05/MediCare_Pvt_Ltd">View Repo</a>
+<a href="https://github.com/ThisumM05/MediCare_Pvt_Ltd">🔗 View Repo</a>
 </td>
 
-<td align="center" width="300">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=java" width="40"><br><br>
-<b>Fashion Shop System</b><br>
+<b>Fashion Shop</b><br>
 <i>Java</i><br><br>
-Inventory & sales 👕<br><br>
-<a href="https://github.com/ThisumM05/Fashion_Shop_Managment_System">View Repo</a>
+Inventory system 👕<br><br>
+<a href="https://github.com/ThisumM05/Fashion_Shop_Managment_System">🔗 View Repo</a>
 </td>
-
 </tr>
-</table>
 
-<br>
-
-<table border="1" cellpadding="15" cellspacing="10">
 <tr>
-
-<td align="center" width="300">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=cs" width="40"><br><br>
-<b>Eshift Management</b><br>
+<b>Eshift System</b><br>
 <i>C#</i><br><br>
 Booking system 🚚<br><br>
-<a href="https://github.com/ThisumM05/Eshift_Management_System">View Repo</a>
+<a href="https://github.com/ThisumM05/Eshift_Management_System">🔗 View Repo</a>
 </td>
-
 </tr>
+
 </table>
----
 
 ## 🧰 Tech Stack
 <p align="center">
