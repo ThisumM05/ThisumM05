@@ -12,96 +12,91 @@
 
 ## 🚀 Featured Projects
 
-<!-- Portfolio Card -->
-<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:20px; margin-bottom:32px; background:#f8fafd;">
-  <img src="https://skillicons.dev/icons?i=react" width="40" />
-  <br>
-  <b>Personal Portfolio</b>
-  <br>
-  <em>React, Tailwind, Framer Motion</em>
-  <br>
-  A modern dark-themed portfolio with real-world projects and clean UI.
-  <br>
-  <a href="https://github.com/ThisumM05/Personal_Portfolio">View repo</a>
-</div>
+<table>
+<tr>
 
-<!-- MOS_Bruger Card -->
-<div align="center" style="border:2px solid #F7B236; border-radius:16px; padding:20px; margin-bottom:32px; background:#f8fafd;">
-  <img src="https://skillicons.dev/icons?i=js" width="40" />
-  <br>
-  <b>MOS_Bruger</b>
-  <br>
-  <em>JavaScript Web App</em>
-  <br>
-  Burger-ordering experience 🍔
-  <br>
-  <a href="https://github.com/ThisumM05/MOS_Bruger">View repo</a>
-</div>
+<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br><br>
+<b>Personal Portfolio</b><br>
+<em>React, Tailwind, Framer Motion</em><br><br>
+Modern dark-themed portfolio with clean UI<br><br>
+<a href="https://github.com/ThisumM05/Personal_Portfolio">View Repo</a>
+</td>
 
-<!-- StarEvents Card -->
-<div align="center" style="border:2px solid #7ED957; border-radius:16px; padding:20px; margin-bottom:32px; background:#f8fafd;">
-  <img src="https://skillicons.dev/icons?i=html" width="40" />
-  <br>
-  <b>StarEvents</b>
-  <br>
-  <em>Online Event Ticketing Platform</em>
-  <br>
-  Ticket booking for customers, organizers, and admins 🎟️
-  <br>
-  <a href="https://github.com/ThisumM05/StarEvents_Pvt_Ltd_Management_System">View repo</a>
-</div>
+<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+<img src="https://skillicons.dev/icons?i=js" width="40"/><br><br>
+<b>MOS_Bruger</b><br>
+<em>JavaScript Web App</em><br><br>
+Burger-ordering experience 🍔<br><br>
+<a href="https://github.com/ThisumM05/MOS_Bruger">View Repo</a>
+</td>
 
-<!-- FoodHub Card -->
-<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:20px; margin-bottom:32px; background:#f8fafd;">
-  <img src="https://skillicons.dev/icons?i=cs" width="40" />
-  <br>
-  <b>FoodHub Management System</b>
-  <br>
-  <em>C# WinForms + SQL Server</em>
-  <br>
-  Operations for a food delivery company 🍲
-  <br>
-  <a href="https://github.com/ThisumM05/FoodHub_Management_System">View repo</a>
-</div>
+</tr>
+</table>
 
-<!-- MediCare Card -->
-<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:20px; margin-bottom:32px; background:#f8fafd;">
-  <img src="https://skillicons.dev/icons?i=html" width="40" />
-  <br>
-  <b>MediCare Pvt Ltd</b>
-  <br>
-  <em>Healthcare Management System</em>
-  <br>
-  Patient records, appointments, admin workflows 🩺
-  <br>
-  <a href="https://github.com/ThisumM05/MediCare_Pvt_Ltd">View repo</a>
-</div>
+<br>
 
-<!-- Fashion Shop Card -->
-<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:20px; margin-bottom:32px; background:#f8fafd;">
-  <img src="https://skillicons.dev/icons?i=java" width="40" />
-  <br>
-  <b>Fashion Shop Management System</b>
-  <br>
-  <em>Java</em>
-  <br>
-  Inventory, sales, customer management 👕
-  <br>
-  <a href="https://github.com/ThisumM05/Fashion_Shop_Managment_System">View repo</a>
-</div>
+<table>
+<tr>
 
-<!-- Eshift Card -->
-<div align="center" style="border:2px solid #36BCF7; border-radius:16px; padding:20px; margin-bottom:32px; background:#f8fafd;">
-  <img src="https://skillicons.dev/icons?i=cs" width="40" />
-  <br>
-  <b>Eshift Management System</b>
-  <br>
-  <em>C#</em>
-  <br>
-  Booking + user registration 🚚
-  <br>
-  <a href="https://github.com/ThisumM05/Eshift_Management_System">View repo</a>
-</div>
+<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br><br>
+<b>StarEvents</b><br>
+<em>Online Event Ticketing Platform</em><br><br>
+Ticket booking system 🎟️<br><br>
+<a href="https://github.com/ThisumM05/StarEvents_Pvt_Ltd_Management_System">View Repo</a>
+</td>
+
+<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+<img src="https://skillicons.dev/icons?i=cs" width="40"/><br><br>
+<b>FoodHub Management System</b><br>
+<em>C# WinForms + SQL Server</em><br><br>
+Food delivery operations 🍲<br><br>
+<a href="https://github.com/ThisumM05/FoodHub_Management_System">View Repo</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br><br>
+<b>MediCare Pvt Ltd</b><br>
+<em>Healthcare Management System</em><br><br>
+Patient & admin workflows 🩺<br><br>
+<a href="https://github.com/ThisumM05/MediCare_Pvt_Ltd">View Repo</a>
+</td>
+
+<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+<img src="https://skillicons.dev/icons?i=java" width="40"/><br><br>
+<b>Fashion Shop Management</b><br>
+<em>Java</em><br><br>
+Inventory & sales system 👕<br><br>
+<a href="https://github.com/ThisumM05/Fashion_Shop_Managment_System">View Repo</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="300" style="border:1px solid #ccc; border-radius:10px; padding:15px;">
+<img src="https://skillicons.dev/icons?i=cs" width="40"/><br><br>
+<b>Eshift Management System</b><br>
+<em>C#</em><br><br>
+Booking & user system 🚚<br><br>
+<a href="https://github.com/ThisumM05/Eshift_Management_System">View Repo</a>
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🧰 Tech Stack
