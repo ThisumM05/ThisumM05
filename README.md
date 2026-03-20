@@ -21,6 +21,7 @@
     </td>
   </tr>
   <tr>
+    <br>
     <td>
       <img src="https://skillicons.dev/icons?i=js" width="40" /> <b>MOS_Bruger (JavaScript Web App)</b><br>
       Dynamic burger ordering experience.<br>
