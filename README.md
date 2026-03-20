@@ -10,61 +10,60 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react" width="40" /> <b>Personal Portfolio (React, Tailwind, Framer Motion)</b><br>
-      A modern dark-themed portfolio with real-world projects and clean UI.<br>
-      <a href="https://github.com/ThisumM05/Personal_Portfolio">View repo</a>
-    </td>
-  </tr>
-      <br>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js" width="40" /> <b>MOS_Bruger (JavaScript Web App)</b><br>
-      Dynamic burger ordering experience.<br>
-      <a href="https://github.com/ThisumM05/MOS_Bruger">View repo</a> 🍔
-    </td>
-  </tr>
-    <br>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html" width="40" /> <b>StarEvents (Online Event Ticketing Platform)</b><br>
-      Ticket booking for customers, organizers, and admins.<br>
-      <a href="https://github.com/ThisumM05/StarEvents_Pvt_Ltd_Management_System">View repo</a> 🎟️
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cs" width="40" /> <b>FoodHub Management System (C# WinForms + SQL)</b><br>
-      Full ops for a food delivery company.<br>
-      <a href="https://github.com/ThisumM05/FoodHub_Management_System">View repo</a> 🍲
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html" width="40" /> <b>MediCare Pvt Ltd (Healthcare Management System)</b><br>
-      Patient records, appointments, admin workflows.<br>
-      <a href="https://github.com/ThisumM05/MediCare_Pvt_Ltd">View repo</a> 🩺
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java" width="40" /> <b>Fashion Shop Management System (Java)</b><br>
-      Inventory, sales, and customer management for retail.<br>
-      <a href="https://github.com/ThisumM05/Fashion_Shop_Managment_System">View repo</a> 👕
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cs" width="40" /> <b>Eshift Management System (C#)</b><br>
-      Booking + user registration.<br>
-      <a href="https://github.com/ThisumM05/Eshift_Management_System">View repo</a> 🚚
-    </td>
-  </tr>
-</table>
+<!-- This WON'T WORK in GitHub README, but you can preview in browser -->
+<html>
+<head>
+<style>
+.project-card {
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(54,188,247,0.15);
+  border: 2px solid #36BCF7;
+  background: #161B22;
+  padding: 16px;
+  margin: 16px;
+  width: 400px;
+  transition: transform 0.2s cubic-bezier(.2,1.3,.4,1); 
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  animation: glow 2s infinite alternate;
+}
+.project-icon {
+  width:64px; height:64px;
+  animation: floaty 2.7s ease-in-out infinite;
+}
+@keyframes floaty {
+  0% { transform: translateY(0);}
+  50% { transform: translateY(-8px);}
+  100% { transform: translateY(0);}
+}
+@keyframes glow {
+  0% { box-shadow: 0 4px 12px #36BCF7;}
+  100% { box-shadow: 0 8px 24px #ffef36;}
+}
+</style>
+</head>
+<body>
+<div class="project-card">
+  <img class="project-icon" src="https://skillicons.dev/icons?i=react" />
+  <div>
+    <b>Personal Portfolio</b> <br>
+    <em>React, Tailwind, Framer Motion</em> <br>
+    <span>A modern dark-themed portfolio</span><br>
+    <a href="https://github.com/ThisumM05/Personal_Portfolio">View repo</a>
+  </div>
+</div>
+<div class="project-card">
+  <img class="project-icon" src="https://skillicons.dev/icons?i=js" />
+  <div>
+    <b>MOS_Bruger</b> <br>
+    <em>JavaScript Web App</em> <br>
+    <span>Burger-ordering experience</span> 🍔<br>
+    <a href="https://github.com/ThisumM05/MOS_Bruger">View repo</a>
+  </div>
+</div>
+</body>
+</html>
 
 ---
 
