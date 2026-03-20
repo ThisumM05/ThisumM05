@@ -20,14 +20,15 @@
       <a href="https://github.com/ThisumM05/Personal_Portfolio">View repo</a>
     </td>
   </tr>
+      <br>
   <tr>
-    <br>
     <td>
       <img src="https://skillicons.dev/icons?i=js" width="40" /> <b>MOS_Bruger (JavaScript Web App)</b><br>
       Dynamic burger ordering experience.<br>
       <a href="https://github.com/ThisumM05/MOS_Bruger">View repo</a> 🍔
     </td>
   </tr>
+    <br>
   <tr>
     <td>
       <img src="https://skillicons.dev/icons?i=html" width="40" /> <b>StarEvents (Online Event Ticketing Platform)</b><br>
