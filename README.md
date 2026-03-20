@@ -94,7 +94,7 @@
   <img src="Images/anim-portfolio.svg" width="260" height="160" style="border-radius:10px;display:block;">
   <br><br>
   <a href="https://github.com/ThisumM05/Personal_Portfolio">
-    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-%23A020F0?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
@@ -105,7 +105,7 @@
   <img src="Images/anim-burger.svg" width="260" height="160" style="border-radius:10px;display:block;">
   <br><br>
   <a href="https://github.com/ThisumM05/MOS_Bruger">
-    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-%23FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
@@ -116,7 +116,7 @@
   <img src="Images/anim-starevents.svg" width="260" height="160" style="border-radius:10px;display:block;">
   <br><br>
   <a href="https://github.com/ThisumM05/StarEvents_Pvt_Ltd_Management_System">
-    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=black" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-%23FFD700?style=for-the-badge&logo=github&logoColor=black" alt="View Repo">
   </a>
 </div>
 </td>
@@ -131,7 +131,7 @@
   <img src="Images/anim-foodhub.svg" width="260" height="160" style="border-radius:10px;display:block;">
   <br><br>
   <a href="https://github.com/ThisumM05/FoodHub_Management_System">
-    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-%2336BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
@@ -142,7 +142,7 @@
   <img src="Images/anim-medicare.svg" width="260" height="160" style="border-radius:10px;display:block;">
   <br><br>
   <a href="https://github.com/ThisumM05/MediCare_Pvt_Ltd">
-    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-%2300C896?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
@@ -153,7 +153,7 @@
   <img src="Images/anim-fashion.svg" width="260" height="160" style="border-radius:10px;display:block;">
   <br><br>
   <a href="https://github.com/ThisumM05/Fashion_Shop_Managment_System">
-    <img src="https://img.shields.io/badge/View%20Repo-=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+    <img src="https://img.shields.io/badge/View%20Repo-%23FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
   </a>
 </div>
 </td>
