@@ -88,17 +88,6 @@
 <!-- Row 1 -->
 <tr>
 
-<!-- Personal Portfolio -->
-<td align="center" valign="top">
-<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #A020F0;padding:12px;width:260px;">
-  <img src="Images/anim-portfolio.svg" width="260" height="160" style="border-radius:10px;display:block;">
-  <br><br>
-  <a href="https://github.com/ThisumM05/Personal_Portfolio">
-    <img src="https://img.shields.io/badge/View%20Repo-%23A020F0?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
-  </a>
-</div>
-</td>
-
 <!-- MOS Burger -->
 <td align="center" valign="top">
 <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #FF6B35;padding:12px;width:260px;">
@@ -120,10 +109,6 @@
   </a>
 </div>
 </td>
-</tr>
-
-<!-- Row 2 -->
-<tr>
 
 <!-- FoodHub -->
 <td align="center" valign="top">
@@ -135,6 +120,10 @@
   </a>
 </div>
 </td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
 
 <!-- MediCare -->
 <td align="center" valign="top">
@@ -157,11 +146,7 @@
   </a>
 </div>
 </td>
-</tr>
 
-
-<!-- Row 3 - Eshift centred -->
-<tr>
 <td colspan="3" align="center">
 <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #9B59B6;padding:12px;width:260px;display:inline-block;">
   <img src="Images/anim-eshift.svg" width="260" height="160" style="border-radius:10px;display:block;">
