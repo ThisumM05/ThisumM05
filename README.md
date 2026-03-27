@@ -99,6 +99,35 @@
 </div>
 </td>
 
+<!-- AI Speech Therapy -->
+<td align="center" valign="top">
+<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #00AAFF;padding:12px;width:260px;">
+  <img src="Images/anim-speechtherapy.svg" width="260" height="160" style="border-radius:10px;display:block;">
+  <br><br>
+  <a href="https://github.com/ThisumM05/AI-Based-Speech-Therapy">
+    <img src="https://img.shields.io/badge/View%20Repo-%2300AAFF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+  </a>
+</div>
+</td>
+
+<!-- FarmInvest Lite -->
+<td align="center" valign="top">
+<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #7BC832;padding:12px;width:260px;">
+  <img src="Images/anim-farminvest.svg" width="260" height="160" style="border-radius:10px;display:block;">
+  <br><br>
+  <a href="https://github.com/ThisumM05/FarmInvest_Lite">
+    <img src="https://img.shields.io/badge/View%20Repo-%237BC832?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+  </a>
+</div>
+</td>
+
+
+
+</tr>
+
+<!-- Row 2 -->
+<tr>
+
 <!-- StarEvents -->
 <td align="center" valign="top">
 <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #FFD700;padding:12px;width:260px;">
@@ -120,10 +149,6 @@
   </a>
 </div>
 </td>
-</tr>
-
-<!-- Row 2 -->
-<tr>
 
 <!-- MediCare -->
 <td align="center" valign="top">
@@ -136,26 +161,12 @@
 </div>
 </td>
 
-<!-- Fashion Shop -->
-<td align="center" valign="top">
-<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #FF69B4;padding:12px;width:260px;">
-  <img src="Images/anim-fashion.svg" width="260" height="160" style="border-radius:10px;display:block;">
-  <br><br>
-  <a href="https://github.com/ThisumM05/Fashion_Shop_Managment_System">
-    <img src="https://img.shields.io/badge/View%20Repo-%23FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
-  </a>
-</div>
-</td>
+</tr>
 
-<td colspan="3" align="center">
-<div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #9B59B6;padding:12px;width:260px;display:inline-block;">
-  <img src="Images/anim-eshift.svg" width="260" height="160" style="border-radius:10px;display:block;">
-  <br><br>
-  <a href="https://github.com/ThisumM05/Eshift_Management_System">
-    <img src="https://img.shields.io/badge/View%20Repo-%239B59B6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
-  </a>
-</div>
-</td>
+<!-- Row 3 -->
+<tr>
+
+
 </tr>
 
 
