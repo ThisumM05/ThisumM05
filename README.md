@@ -3,7 +3,7 @@
 <!-- +------------------------------------------------------+ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Thanuja%20Thisum%20Madappuli&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=header&text=Thanuja%20Thisum%20Madappuli&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=75&descSize=16&stroke=A020F0&strokeWidth=1" width="100%"/>
 </div>
 
 <br>
@@ -88,95 +88,156 @@
 ---
 
 <!-- +------------------------------------------------------+ -->
-<!--                      EDUCATION                           -->
+<!--              EDUCATION & WORK EXPERIENCE                 -->
 <!-- +------------------------------------------------------+ -->
 
-<h2 align="center">🎓 Education</h2>
-
-<div align="center">
-<table border="0" cellpadding="10" cellspacing="0" width="780">
-
-<tr>
-<td align="center" width="60">
-  <img src="https://img.shields.io/badge/🎓-BSc-A020F0?style=for-the-badge&labelColor=1a1a2e" alt="BSc"/>
-</td>
-<td>
-  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border-left:4px solid #A020F0;padding:14px 20px;">
-    <b style="color:#A020F0;">BSc (Hons) in Computing (Top Up)</b><br>
-    <sub>London Metropolitan University (UK) &nbsp;•&nbsp; <i>Pending</i></sub>
-  </div>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="60">
-  <img src="https://img.shields.io/badge/📘-HND-36BCF7?style=for-the-badge&labelColor=1a1a2e" alt="HND"/>
-</td>
-<td>
-  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border-left:4px solid #36BCF7;padding:14px 20px;">
-    <b style="color:#36BCF7;">Pearson – BTEC HND in Computing</b><br>
-    <sub>Higher National Diploma</sub>
-  </div>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="60">
-  <img src="https://img.shields.io/badge/📗-DITEC-00C896?style=for-the-badge&labelColor=1a1a2e" alt="DITEC"/>
-</td>
-<td>
-  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border-left:4px solid #00C896;padding:14px 20px;">
-    <b style="color:#00C896;">Pearson – Diploma in Information Technology (DITEC)</b><br>
-    <sub>Diploma in IT</sub>
-  </div>
-</td>
-</tr>
-
-</table>
-</div>
+<h2 align="center">🎓 Education &amp; 💼 Work Experience</h2>
 
 <br>
 
----
-
-<!-- +------------------------------------------------------+ -->
-<!--                   WORK EXPERIENCE                        -->
-<!-- +------------------------------------------------------+ -->
-
-<h2 align="center">💼 Work Experience</h2>
-
 <div align="center">
-<table border="0" cellpadding="10" cellspacing="0" width="780">
+<table border="0" cellpadding="0" cellspacing="0" width="820">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    EDUCATION COLUMN                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <tr>
-<td>
-  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #A020F0;padding:18px 24px;">
-    <div style="display:flex;align-items:center;margin-bottom:8px;">
-      <img src="https://img.shields.io/badge/💻-Full%20Stack%20Developer-A020F0?style=flat-square&labelColor=1a1a2e" alt="role"/>
-    </div>
-    <b>Freelance Full Stack Developer</b><br>
-    <sub>📅 2024 – Present &nbsp;•&nbsp; 📍 Sri Lanka</sub><br><br>
-    &nbsp; ▸ Designing and developing end-to-end web applications for clients<br>
-    &nbsp; ▸ Building responsive UIs with React, Next.js &amp; Tailwind CSS<br>
-    &nbsp; ▸ Developing REST APIs with Node.js and database integration<br>
-    &nbsp; ▸ Deploying full-stack solutions with version control &amp; CI/CD workflows
-  </div>
+<td align="center" colspan="3">
+  <img src="https://img.shields.io/badge/─────────────────────────────────────────-🎓%20EDUCATION%20🎓-A020F0?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Education Header"/>
 </td>
 </tr>
 
+<tr><td colspan="3">&nbsp;</td></tr>
+
+<!-- BSc -->
 <tr>
-<td>
-  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #36BCF7;padding:18px 24px;">
-    <div style="display:flex;align-items:center;margin-bottom:8px;">
-      <img src="https://img.shields.io/badge/🖥️-IT%20Support%20%26%20Development-36BCF7?style=flat-square&labelColor=1a1a2e" alt="role"/>
-    </div>
-    <b>IT Support &amp; Development Intern</b><br>
-    <sub>📅 2023 – 2024 &nbsp;•&nbsp; 📍 Sri Lanka</sub><br><br>
-    &nbsp; ▸ Assisted in developing internal management systems<br>
-    &nbsp; ▸ Provided technical support and troubleshooting<br>
-    &nbsp; ▸ Worked with databases (MySQL, PostgreSQL) and backend logic<br>
-    &nbsp; ▸ Collaborated with senior developers on production projects
+<td align="center" width="80" valign="top">
+  <img src="https://img.shields.io/badge/-Pending-A020F0?style=flat-square&labelColor=1a1a2e" alt="Pending"/>
+  <br>
+  <sub>🔵</sub>
+  <br>
+  <sub>│</sub>
+  <br>
+  <sub>│</sub>
+</td>
+<td width="20"></td>
+<td valign="top">
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border-left:4px solid #A020F0;padding:18px 24px;">
+    <b style="color:#A020F0;">BSc (Hons) in Computing &nbsp; (Top Up)</b>
+    <br><br>
+    <sub>🏛️ &nbsp; London Metropolitan University (UK)</sub>
+    <br>
+    <sub>📋 &nbsp; Status: <i>Pending</i></sub>
   </div>
+  <br>
+</td>
+</tr>
+
+<!-- HND -->
+<tr>
+<td align="center" width="80" valign="top">
+  <sub>│</sub>
+  <br>
+  <sub>🔵</sub>
+  <br>
+  <sub>│</sub>
+  <br>
+  <sub>│</sub>
+</td>
+<td width="20"></td>
+<td valign="top">
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border-left:4px solid #36BCF7;padding:18px 24px;">
+    <b style="color:#36BCF7;">Pearson – BTEC HND in Computing</b>
+    <br><br>
+    <sub>📘 &nbsp; Higher National Diploma</sub>
+  </div>
+  <br>
+</td>
+</tr>
+
+<!-- DITEC -->
+<tr>
+<td align="center" width="80" valign="top">
+  <sub>│</sub>
+  <br>
+  <sub>🔵</sub>
+  <br>
+  <sub>│</sub>
+  <br>
+  <sub>│</sub>
+</td>
+<td width="20"></td>
+<td valign="top">
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border-left:4px solid #00C896;padding:18px 24px;">
+    <b style="color:#00C896;">Pearson – Diploma in Information Technology &nbsp; (DITEC)</b>
+    <br><br>
+    <sub>📗 &nbsp; Diploma in IT</sub>
+  </div>
+  <br>
+</td>
+</tr>
+
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 WORK EXPERIENCE COLUMN                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<tr>
+<td align="center" colspan="3">
+  <img src="https://img.shields.io/badge/─────────────────────────────────────────-💼%20WORK%20EXPERIENCE%20💼-36BCF7?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Work Experience Header"/>
+</td>
+</tr>
+
+<tr><td colspan="3">&nbsp;</td></tr>
+
+<!-- Freelance Full Stack Developer -->
+<tr>
+<td align="center" width="80" valign="top">
+  <img src="https://img.shields.io/badge/-2024%20–%20Now-A020F0?style=flat-square&labelColor=1a1a2e" alt="2024"/>
+  <br>
+  <sub>🟣</sub>
+  <br>
+  <sub>│</sub>
+  <br>
+  <sub>│</sub>
+</td>
+<td width="20"></td>
+<td valign="top">
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border-left:4px solid #A020F0;padding:20px 26px;">
+    <img src="https://img.shields.io/badge/💻-Full%20Stack%20Developer-A020F0?style=flat-square&labelColor=1a1a2e" alt="role"/>
+    <br><br>
+    <b>Freelance Full Stack Developer</b>
+    <br><br>
+    <sub>📅 &nbsp; 2024 – Present &nbsp; &nbsp; • &nbsp; &nbsp; 📍 Sri Lanka</sub>
+  </div>
+  <br>
+</td>
+</tr>
+
+<!-- IT Support & Development Intern -->
+<tr>
+<td align="center" width="80" valign="top">
+  <sub>│</sub>
+  <br>
+  <img src="https://img.shields.io/badge/-2023%20–%202024-36BCF7?style=flat-square&labelColor=1a1a2e" alt="2023"/>
+  <br>
+  <sub>🔵</sub>
+  <br>
+  <sub>│</sub>
+</td>
+<td width="20"></td>
+<td valign="top">
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border-left:4px solid #36BCF7;padding:20px 26px;">
+    <img src="https://img.shields.io/badge/🖥️-IT%20Support%20%26%20Dev-36BCF7?style=flat-square&labelColor=1a1a2e" alt="role"/>
+    <br><br>
+    <b>IT Support &amp; Development Intern</b>
+    <br><br>
+    <sub>📅 &nbsp; 2025 – 2026 &nbsp; &nbsp; • &nbsp; &nbsp; 📍 Sri Lanka</sub>
+  </div>
+  <br>
 </td>
 </tr>
 
@@ -340,6 +401,22 @@
 </tr>
 </table>
 
+<br>
+
+<!-- Row 3: Cloud & Infrastructure -->
+<table border="0" cellpadding="12" cellspacing="0">
+<tr>
+<td align="center">
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border:1px solid #E44D26;padding:16px 24px;">
+    <div style="color:#E44D26;font-weight:bold;font-size:13px;margin-bottom:10px;">Cloud & Infrastructure</div>
+    <img src="https://skillicons.dev/icons?i=cloudflare,supabase,gcp" alt="Cloud & Infrastructure"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48" alt="Render"/>
+  </div>
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
@@ -368,13 +445,6 @@
 </td>
 </tr>
 </table>
-</div>
-
-<br>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisumM05&theme=tokyo-night&area=true&hide_border=true&radius=12" width="95%" alt="Contribution Graph"/>
 </div>
 
 <br>
