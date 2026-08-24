@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=650&height=55&lines=Hi+there%2C+I%27m+Thisum+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Node+%7C+C%23+%7C+Java;Building+Real+World+Projects+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=650&height=55&lines=Hi+there%2C+I%27m+Thisum+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Next.js+%7C+Node+%7C+C%23+%7C+Java;Building+Real+World+Projects+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -22,6 +22,17 @@
   <img src="https://img.shields.io/github/followers/ThisumM05?label=Followers&color=36BCF7&style=for-the-badge&logo=github&logoColor=white" alt="followers"/>
   &nbsp;
   <img src="https://img.shields.io/github/stars/ThisumM05?label=Stars&color=FFD700&style=for-the-badge&logo=github&logoColor=white" alt="stars"/>
+</div>
+
+<br>
+
+<!-- Personal Info Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Sri%20Lanka-A020F0?style=flat-square&labelColor=1a1a2e" alt="Location"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📧_Email-thisummadappuli@gmail.com-36BCF7?style=flat-square&labelColor=1a1a2e" alt="Email"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/💼_Status-Open%20to%20Work-00C896?style=flat-square&labelColor=1a1a2e" alt="Status"/>
 </div>
 
 <br>
@@ -69,6 +80,106 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius:14px;border:3px solid #A020F0;" alt="coding gif"/>
 </td>
 </tr>
+</table>
+</div>
+
+<br>
+
+---
+
+<!-- +------------------------------------------------------+ -->
+<!--                      EDUCATION                           -->
+<!-- +------------------------------------------------------+ -->
+
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0" width="780">
+
+<tr>
+<td align="center" width="60">
+  <img src="https://img.shields.io/badge/🎓-BSc-A020F0?style=for-the-badge&labelColor=1a1a2e" alt="BSc"/>
+</td>
+<td>
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border-left:4px solid #A020F0;padding:14px 20px;">
+    <b style="color:#A020F0;">BSc (Hons) in Computing (Top Up)</b><br>
+    <sub>London Metropolitan University (UK) &nbsp;•&nbsp; <i>Pending</i></sub>
+  </div>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="60">
+  <img src="https://img.shields.io/badge/📘-HND-36BCF7?style=for-the-badge&labelColor=1a1a2e" alt="HND"/>
+</td>
+<td>
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border-left:4px solid #36BCF7;padding:14px 20px;">
+    <b style="color:#36BCF7;">Pearson – BTEC HND in Computing</b><br>
+    <sub>Higher National Diploma</sub>
+  </div>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="60">
+  <img src="https://img.shields.io/badge/📗-DITEC-00C896?style=for-the-badge&labelColor=1a1a2e" alt="DITEC"/>
+</td>
+<td>
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border-left:4px solid #00C896;padding:14px 20px;">
+    <b style="color:#00C896;">Pearson – Diploma in Information Technology (DITEC)</b><br>
+    <sub>Diploma in IT</sub>
+  </div>
+</td>
+</tr>
+
+</table>
+</div>
+
+<br>
+
+---
+
+<!-- +------------------------------------------------------+ -->
+<!--                   WORK EXPERIENCE                        -->
+<!-- +------------------------------------------------------+ -->
+
+<h2 align="center">💼 Work Experience</h2>
+
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0" width="780">
+
+<tr>
+<td>
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #A020F0;padding:18px 24px;">
+    <div style="display:flex;align-items:center;margin-bottom:8px;">
+      <img src="https://img.shields.io/badge/💻-Full%20Stack%20Developer-A020F0?style=flat-square&labelColor=1a1a2e" alt="role"/>
+    </div>
+    <b>Freelance Full Stack Developer</b><br>
+    <sub>📅 2024 – Present &nbsp;•&nbsp; 📍 Sri Lanka</sub><br><br>
+    &nbsp; ▸ Designing and developing end-to-end web applications for clients<br>
+    &nbsp; ▸ Building responsive UIs with React, Next.js &amp; Tailwind CSS<br>
+    &nbsp; ▸ Developing REST APIs with Node.js and database integration<br>
+    &nbsp; ▸ Deploying full-stack solutions with version control &amp; CI/CD workflows
+  </div>
+</td>
+</tr>
+
+<tr>
+<td>
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:14px;border:1px solid #36BCF7;padding:18px 24px;">
+    <div style="display:flex;align-items:center;margin-bottom:8px;">
+      <img src="https://img.shields.io/badge/🖥️-IT%20Support%20%26%20Development-36BCF7?style=flat-square&labelColor=1a1a2e" alt="role"/>
+    </div>
+    <b>IT Support &amp; Development Intern</b><br>
+    <sub>📅 2023 – 2024 &nbsp;•&nbsp; 📍 Sri Lanka</sub><br><br>
+    &nbsp; ▸ Assisted in developing internal management systems<br>
+    &nbsp; ▸ Provided technical support and troubleshooting<br>
+    &nbsp; ▸ Worked with databases (MySQL, PostgreSQL) and backend logic<br>
+    &nbsp; ▸ Collaborated with senior developers on production projects
+  </div>
+</td>
+</tr>
+
 </table>
 </div>
 
@@ -184,28 +295,51 @@
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
+
+<!-- Row 1: Languages & Frameworks -->
 <table border="0" cellpadding="12" cellspacing="0">
 <tr>
 <td align="center">
   <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border:1px solid #A020F0;padding:16px 24px;">
     <div style="color:#A020F0;font-weight:bold;font-size:13px;margin-bottom:10px;">Languages</div>
-    <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css,cpp" alt="Languages"/>
   </div>
 </td>
 <td align="center">
   <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border:1px solid #36BCF7;padding:16px 24px;">
     <div style="color:#36BCF7;font-weight:bold;font-size:13px;margin-bottom:10px;">Frameworks</div>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs" alt="Frameworks"/>
-  </div>
-</td>
-<td align="center">
-  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border:1px solid #00C896;padding:16px 24px;">
-    <div style="color:#00C896;font-weight:bold;font-size:13px;margin-bottom:10px;">Database &amp; Tools</div>
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" alt="Frameworks"/>
   </div>
 </td>
 </tr>
 </table>
+
+<br>
+
+<!-- Row 2: Databases, Version Control, Tools -->
+<table border="0" cellpadding="12" cellspacing="0">
+<tr>
+<td align="center">
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border:1px solid #00C896;padding:16px 24px;">
+    <div style="color:#00C896;font-weight:bold;font-size:13px;margin-bottom:10px;">Databases</div>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases"/>
+  </div>
+</td>
+<td align="center">
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border:1px solid #FF6B35;padding:16px 24px;">
+    <div style="color:#FF6B35;font-weight:bold;font-size:13px;margin-bottom:10px;">Version Control</div>
+    <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control"/>
+  </div>
+</td>
+<td align="center">
+  <div style="background:linear-gradient(145deg,#1e1e2e,#2a2a40);border-radius:12px;border:1px solid #FFD700;padding:16px 24px;">
+    <div style="color:#FFD700;font-weight:bold;font-size:13px;margin-bottom:10px;">Tools & IDEs</div>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,arduino" alt="Tools"/>
+  </div>
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
@@ -238,6 +372,21 @@
 
 <br>
 
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisumM05&theme=tokyo-night&area=true&hide_border=true&radius=12" width="95%" alt="Contribution Graph"/>
+</div>
+
+<br>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThisumM05&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="90%" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+---
 
 <!-- +------------------------------------------------------+ -->
 <!--                   MORE PROJECTS                          -->
@@ -288,6 +437,12 @@
 
 <br>
 
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ThisumM05/ThisumM05/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<br>
 
 <!-- +------------------------------------------------------+ -->
 <!--                      FOOTER                              -->
